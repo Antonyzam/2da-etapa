@@ -1,0 +1,14 @@
+int main(){
+	string continuar;
+	cout<<"Desea continuar si/no :";
+	cin>>continuar;
+	if (continuar=="si"){
+		cout<<"Gracias.."<<endl;
+		while(true){
+			if(true){
+				"hola";
+			}
+		}
+	}
+	return 0;
+}
